@@ -22,7 +22,7 @@ function App() {
 							<img
 								src={product.image}
 								alt={product.title}
-								className="w-[100%] h-[400px] object-contain"
+								className="w-full h-80 object-contain"
 							/>
 						</div>
 						<div className="p-4 flex flex-col justify-between h-full w-full">
